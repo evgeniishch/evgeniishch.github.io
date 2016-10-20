@@ -4,36 +4,6 @@
     <meta charset="UTF-8">
     <title>particles.js demo</title>
         <link rel="stylesheet" href="css/style.css">
-      <style>
-          .text {
-              text-align:  center;
-          }
-          #action_element{
-              display:none;
-              opactity: 0;
-              position:absolute;
-              width:100%;
-              bottom:0;
-              height:0px;
-              color:white;
-              background-color:black;
-              text-align:center;
-              line-height:40px;
-          }
-
-
-      </style>
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-      <script>
-          ("#action_handler").click(function(){
-              $("#action_element").fadeIn(600).animate({
-                  opacity: 1.0,
-                  height: "40px",
-                  display:"toggle",
-              }, { duration: 3500, queue: false });
-          });
-      </script>
-
   </head>
 
   <body>
@@ -42,11 +12,6 @@
     <div id="particles-js" align="center">
         <h1 id="main-header"> Euler Labs </h1>
         <h2 style="display: flex; align-items: center; font-family: Mohave; font-size: 40px; position: absolute; color: white; justify-content: center; height: 90%; width: 100%;" > Saint Petersburg</h2>
-
-
-
-
-
     <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="js/index.js"></script>
 
