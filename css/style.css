@@ -8,6 +8,20 @@ body{
     margin:0;
     font:normal 75% Arial, Helvetica, sans-serif;
     }
+    #blok1{
+border:1px solid red;
+width:150px;
+height:50px;
+float:right;
+}
+#blok2{
+border:1px solid red;
+width:150px;
+height:50px;
+float:right;
+clear:right;
+}
+    
 #main-header {
     text-align: center;
     font-family: Mohave;
