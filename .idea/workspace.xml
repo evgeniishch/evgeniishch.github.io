@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d25dbc40-fe91-4ad2-8762-0249416fd7b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="d25dbc40-fe91-4ad2-8762-0249416fd7b0" name="Default" comment="" />
     <ignored path="evgeniishch.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -125,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481818176729</updated>
-      <workItem from="1481818179140" duration="286000" />
+      <workItem from="1481818179140" duration="451000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing padding...">
       <created>1481818308663</created>
@@ -138,7 +135,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286000" />
+    <option name="totallyTimeSpent" value="451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="958" extended-state="6" />
